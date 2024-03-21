@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @ahmadi-aliakbar
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-ahmadi-aliakbar/ahmadi-aliakbar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m @ahmadi-aliakbar
+👀 I’m interested in programming (Python, C), machine learning (data mining), and PLC programming.
+🌱 I’m currently learning advanced techniques in machine learning and expanding my knowledge in PLC programming.
+💞️ I’m looking to collaborate on projects related to programming, machine learning, or industrial automation.
+📫 You can reach me via GitHub: https://github.com/ahmadi-aliakbar/ahmadi.git
+😄 Pronouns: He/Him
+⚡ Fun fact: I enjoy experimenting with new programming languages and technologies in my free time!
